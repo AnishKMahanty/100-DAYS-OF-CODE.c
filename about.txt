@@ -1,0 +1,13 @@
+### 📂 About – q111-120 (100 Days of Code Series)
+
+This folder contains **ques 111 till ques 120** of my *100 Days of Code journey*.
+Each day focuses on practicing different programming concepts, strengthening logic, and building consistency through daily coding.
+
+🔹 **Highlights of this section**:
+
+* Hands-on practice with **arrays, strings, and functions**
+* Exploring **recursion and iteration-based problems**
+* Simple problem-solving exercises to improve speed and accuracy
+* Strengthening **C programming fundamentals** through real examples
+
+This set of 10 programs represents steady progress in my coding journey, helping me get closer to completing the **100-day challenge**.
